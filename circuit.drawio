@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-06T12:38:12.683Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="8sAtKoDpSf7Xto7cB0-F" version="12.3.7" type="github" pages="1">
+<mxfile modified="2019-12-06T12:39:35.882Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="sguV829aQJtxm0L7jfTj" version="12.3.7" type="github" pages="1">
   <diagram id="BqVT6hTkGivtoPgYdE61" name="Page-1">
     <mxGraphModel dx="981" dy="581" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="SLRoOILE3uPo_ePLO9oY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gJxspR0wx9kIDRPY5j0o-9" target="SLRoOILE3uPo_ePLO9oY-20">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="gJxspR0wx9kIDRPY5j0o-9" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="gJxspR0wx9kIDRPY5j0o-9" value="&lt;div&gt;ON / OFF&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;shape=mxgraph.electrical.electro-mechanical.simple_switch;rotation=-90;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="60" y="466.5" width="75" height="19" as="geometry"/>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-116" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gJxspR0wx9kIDRPY5j0o-11" target="SLRoOILE3uPo_ePLO9oY-146">
