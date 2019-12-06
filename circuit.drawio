@@ -1,0 +1,207 @@
+<mxfile modified="2019-12-06T07:57:03.799Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="WttKwLvBcHj4hk0f8ORl" version="12.3.7" type="github" pages="1">
+  <diagram id="BqVT6hTkGivtoPgYdE61" name="Page-1">
+    <mxGraphModel dx="1422" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ2PiNMpgwIydBIvkZg1m7zmrC-J_zY1YFv5ypGxZs-aYGI5X0jXvLGB2zLMTHsyfwWWRee4cU&amp;usqp=CAc;" parent="1" vertex="1">
+          <mxGeometry x="157" y="124" width="70" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-49" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcircuitspecialists.com%2Fcontent%2F54315%2Fps1-40w-sl12-0.png&amp;f=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="500" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.staticbg.com%2Fthumb%2Flarge%2Foaupload%2Fbanggood%2Fimages%2FEB%2FD8%2F4da9ea47-c00f-4653-8cc4-07e8df42441c.JPG&amp;f=1;" parent="1" vertex="1">
+          <mxGeometry x="629" y="143" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fd3s5r33r268y59.cloudfront.net%2F09812%2Fproducts%2Fthumbs%2F2015-01-21T07%3A08%3A34.230Z-arduino%2520nano.jpg.2560x2560_q85.jpg&amp;f=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="120" width="80" height="59.81" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.ikea.com/ie/en/images/products/ledare-led-bulb-e27-1000-lumen-dimmable-globe-opal-white__0475654_pe615695_s5.jpg;" parent="1" vertex="1">
+          <mxGeometry x="43" y="311" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-1" value="&lt;div&gt;AC light&lt;/div&gt;&lt;div&gt;dimmer&lt;/div&gt;" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=39;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#FFFFFF;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Verdana;fontSize=12;glass=0;fixDash=0;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="232" y="158" width="80" height="247" as="geometry">
+            <mxRectangle x="160" y="74" width="130" height="26" as="alternateBounds"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-2" value="Z-C" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-1" vertex="1">
+          <mxGeometry y="39" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-3" value="PWM" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-1" vertex="1">
+          <mxGeometry y="65" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-4" value="VCC" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-1" vertex="1">
+          <mxGeometry y="91" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-5" value="GND" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-1" vertex="1">
+          <mxGeometry y="117" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-6" value="Lin" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-1" vertex="1">
+          <mxGeometry y="143" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-7" value="Nin" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-1" vertex="1">
+          <mxGeometry y="169" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-8" value="&lt;div&gt;Lout&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-1" vertex="1">
+          <mxGeometry y="195" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-9" value="Nout" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-1" vertex="1">
+          <mxGeometry y="221" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-10" value="PSU" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=39;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Verdana;fontSize=12;glass=0;fixDash=0;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="412" y="398" width="80" height="169" as="geometry">
+            <mxRectangle x="160" y="74" width="130" height="26" as="alternateBounds"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-11" value="L" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-10" vertex="1">
+          <mxGeometry y="39" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-12" value="N" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-10" vertex="1">
+          <mxGeometry y="65" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-13" value="GND" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-10" vertex="1">
+          <mxGeometry y="91" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-14" value="V+" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-10" vertex="1">
+          <mxGeometry y="117" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-15" value="V-" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-10" vertex="1">
+          <mxGeometry y="143" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-16" value="Arduino" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=39;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Verdana;fontSize=12;glass=0;fixDash=0;backgroundOutline=0;part=0;container=0;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="412" y="158" width="80" height="221" as="geometry">
+            <mxRectangle x="160" y="74" width="130" height="26" as="alternateBounds"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-17" value="D2" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-16" vertex="1">
+          <mxGeometry y="39" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-18" value="D9" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-16" vertex="1">
+          <mxGeometry y="65" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-19" value="D3" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-16" vertex="1">
+          <mxGeometry y="91" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-20" value="D5" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-16" vertex="1">
+          <mxGeometry y="117" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-21" value="+5V" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-16" vertex="1">
+          <mxGeometry y="143" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-22" value="GND" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-16" vertex="1">
+          <mxGeometry y="169" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-23" value="Vin" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-16" vertex="1">
+          <mxGeometry y="195" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-24" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SCPqwIXGDRWPj_gMoPab-11" target="SCPqwIXGDRWPj_gMoPab-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="418"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-25" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SCPqwIXGDRWPj_gMoPab-12" target="SCPqwIXGDRWPj_gMoPab-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="332" y="438"/>
+              <mxPoint x="382" y="288"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-26" value="&lt;div&gt;Light&lt;/div&gt;&lt;div&gt;bulb&lt;br&gt;&lt;/div&gt;" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=38;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Verdana;fontSize=12;glass=0;fixDash=0;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="112" y="315" width="80" height="90" as="geometry">
+            <mxRectangle x="160" y="74" width="130" height="26" as="alternateBounds"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-27" value="L" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-26" vertex="1">
+          <mxGeometry y="38" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-28" value="N" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-26" vertex="1">
+          <mxGeometry y="64" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-29" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SCPqwIXGDRWPj_gMoPab-27" target="SCPqwIXGDRWPj_gMoPab-8" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-30" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SCPqwIXGDRWPj_gMoPab-28" target="SCPqwIXGDRWPj_gMoPab-9" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-31" value="&lt;div&gt;Rotary&lt;/div&gt;&lt;div&gt;encoder&lt;br&gt;&lt;/div&gt;" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=38;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Verdana;fontSize=12;glass=0;fixDash=0;backgroundOutline=0;part=0;container=0;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="554" y="185" width="80" height="168" as="geometry">
+            <mxRectangle x="160" y="74" width="130" height="26" as="alternateBounds"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-32" value="A" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-31" vertex="1">
+          <mxGeometry y="38" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-33" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="SCPqwIXGDRWPj_gMoPab-31" source="SCPqwIXGDRWPj_gMoPab-34" target="SCPqwIXGDRWPj_gMoPab-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="103"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-34" value="C" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-31" vertex="1">
+          <mxGeometry y="64" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-35" value="B" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-31" vertex="1">
+          <mxGeometry y="90" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-36" value="Vin" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-31" vertex="1">
+          <mxGeometry y="116" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-37" value="GND" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="SCPqwIXGDRWPj_gMoPab-31" vertex="1">
+          <mxGeometry y="142" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-38" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" parent="1" source="SCPqwIXGDRWPj_gMoPab-2" target="SCPqwIXGDRWPj_gMoPab-17" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-39" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" parent="1" source="SCPqwIXGDRWPj_gMoPab-3" target="SCPqwIXGDRWPj_gMoPab-18" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-40" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" parent="1" source="SCPqwIXGDRWPj_gMoPab-4" target="SCPqwIXGDRWPj_gMoPab-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="298"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-41" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" parent="1" source="SCPqwIXGDRWPj_gMoPab-5" target="SCPqwIXGDRWPj_gMoPab-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="372" y="308"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-42" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" parent="1" source="SCPqwIXGDRWPj_gMoPab-19" target="SCPqwIXGDRWPj_gMoPab-32" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-43" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" parent="1" source="SCPqwIXGDRWPj_gMoPab-20" target="SCPqwIXGDRWPj_gMoPab-35" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-44" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" parent="1" source="SCPqwIXGDRWPj_gMoPab-37" target="SCPqwIXGDRWPj_gMoPab-22" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-45" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SCPqwIXGDRWPj_gMoPab-14" target="SCPqwIXGDRWPj_gMoPab-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="582" y="398" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="512" y="488"/>
+              <mxPoint x="522" y="438"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-46" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" parent="1" source="SCPqwIXGDRWPj_gMoPab-15" target="SCPqwIXGDRWPj_gMoPab-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="532" y="458"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SCPqwIXGDRWPj_gMoPab-47" style="edgeStyle=elbowEdgeStyle;shape=link;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" parent="1" source="SCPqwIXGDRWPj_gMoPab-21" target="SCPqwIXGDRWPj_gMoPab-36" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
