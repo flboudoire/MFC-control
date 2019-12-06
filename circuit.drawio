@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-06T12:31:53.886Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="sDcuKx3OZ02rM4a7uRHK" version="12.3.7" type="github" pages="1">
+<mxfile modified="2019-12-06T12:36:58.591Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="fjVagtmqKH4jbNJa93uY" version="12.3.7" type="github" pages="1">
   <diagram id="BqVT6hTkGivtoPgYdE61" name="Page-1">
     <mxGraphModel dx="981" dy="581" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -117,16 +117,16 @@
             <mxRectangle x="160" y="74" width="130" height="26" as="alternateBounds"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLRoOILE3uPo_ePLO9oY-3" value="5 - GND PSU" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="SLRoOILE3uPo_ePLO9oY-2">
+        <mxCell id="SLRoOILE3uPo_ePLO9oY-3" value="5 &lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;|&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;|&lt;/font&gt;&lt;/b&gt; GND PSU" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="SLRoOILE3uPo_ePLO9oY-2">
           <mxGeometry y="28" width="100" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="SLRoOILE3uPo_ePLO9oY-4" value="7 - 12-26V PSU" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="SLRoOILE3uPo_ePLO9oY-2">
+        <mxCell id="SLRoOILE3uPo_ePLO9oY-4" value="7 &lt;font color=&quot;#FF3333&quot;&gt;&lt;b&gt;|&lt;/b&gt;&lt;/font&gt;&lt;b&gt;|&lt;/b&gt; 12-26V PSU" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="SLRoOILE3uPo_ePLO9oY-2">
           <mxGeometry y="54" width="100" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="SLRoOILE3uPo_ePLO9oY-5" value="8 - Setpoint +" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="SLRoOILE3uPo_ePLO9oY-2">
+        <mxCell id="SLRoOILE3uPo_ePLO9oY-5" value="8 &lt;font color=&quot;#B3B3B3&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;b&gt;|&lt;/b&gt;&lt;b&gt;|&lt;/b&gt;&lt;/span&gt;&lt;/font&gt; Setpoint +" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="SLRoOILE3uPo_ePLO9oY-2">
           <mxGeometry y="80" width="100" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="SLRoOILE3uPo_ePLO9oY-6" value="10 - Setpoint -" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="SLRoOILE3uPo_ePLO9oY-2">
+        <mxCell id="SLRoOILE3uPo_ePLO9oY-6" value="10 &lt;font color=&quot;#B3B3B3&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;font color=&quot;#007FFF&quot;&gt;&lt;b&gt;|&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;|&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt; Setpoint -" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="SLRoOILE3uPo_ePLO9oY-2">
           <mxGeometry y="106" width="100" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SLRoOILE3uPo_ePLO9oY-3" target="gJxspR0wx9kIDRPY5j0o-9">
