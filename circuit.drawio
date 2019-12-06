@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-06T10:58:24.074Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="zn4svkz7bM9MWF7iK0Y-" version="12.3.7" type="github" pages="1">
+<mxfile modified="2019-12-06T10:59:12.306Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="IB2FfR7BgJJHrk1fzgZT" version="12.3.7" type="github" pages="1">
   <diagram id="BqVT6hTkGivtoPgYdE61" name="Page-1">
     <mxGraphModel dx="585" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
           <mxGeometry y="169" width="80" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="gJxspR0wx9kIDRPY5j0o-5" value="button +" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.push_switch_no;" parent="1" vertex="1">
-          <mxGeometry x="480" y="790" width="75" height="19" as="geometry"/>
+          <mxGeometry x="450" y="790" width="75" height="19" as="geometry"/>
         </mxCell>
         <mxCell id="gJxspR0wx9kIDRPY5j0o-6" value="button -" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.push_switch_no;" parent="1" vertex="1">
-          <mxGeometry x="480" y="855.5" width="75" height="19" as="geometry"/>
+          <mxGeometry x="450" y="852" width="75" height="19" as="geometry"/>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gJxspR0wx9kIDRPY5j0o-9" target="SLRoOILE3uPo_ePLO9oY-20">
           <mxGeometry relative="1" as="geometry"/>
@@ -173,10 +173,20 @@
           <mxGeometry x="250" y="600" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-104" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SCPqwIXGDRWPj_gMoPab-22" target="gJxspR0wx9kIDRPY5j0o-6">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="850"/>
+              <mxPoint x="470" y="839"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-105" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SCPqwIXGDRWPj_gMoPab-22" target="gJxspR0wx9kIDRPY5j0o-5">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="850"/>
+              <mxPoint x="470" y="820"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
