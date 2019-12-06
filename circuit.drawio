@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-06T08:20:16.351Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="dZh5cLOB_GFwYP3w6DLq" version="12.3.7" type="github" pages="1">
+<mxfile modified="2019-12-06T08:21:52.404Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="zTNRdjv07NUAr70eQjGs" version="12.3.7" type="github" pages="1">
   <diagram id="BqVT6hTkGivtoPgYdE61" name="Page-1">
     <mxGraphModel dx="1422" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="SCPqwIXGDRWPj_gMoPab-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fd3s5r33r268y59.cloudfront.net%2F09812%2Fproducts%2Fthumbs%2F2015-01-21T07%3A08%3A34.230Z-arduino%2520nano.jpg.2560x2560_q85.jpg&amp;f=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="120" width="80" height="59.81" as="geometry"/>
-        </mxCell>
-        <mxCell id="SCPqwIXGDRWPj_gMoPab-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.ikea.com/ie/en/images/products/ledare-led-bulb-e27-1000-lumen-dimmable-globe-opal-white__0475654_pe615695_s5.jpg;" parent="1" vertex="1">
-          <mxGeometry x="43" y="311" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="SCPqwIXGDRWPj_gMoPab-16" value="Arduino" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=39;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Verdana;fontSize=12;glass=0;fixDash=0;backgroundOutline=0;part=0;container=0;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="412" y="158" width="80" height="221" as="geometry">
