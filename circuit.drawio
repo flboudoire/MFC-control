@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-06T12:42:37.336Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="Sr7Ap8hx5EbMbYOMFQP6" version="12.3.7" type="github" pages="1">
+<mxfile modified="2019-12-06T12:43:06.515Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="0UiP3jbO_t71woZaGHgc" version="12.3.7" type="github" pages="1">
   <diagram id="BqVT6hTkGivtoPgYdE61" name="Page-1">
     <mxGraphModel dx="981" dy="581" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -268,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-151" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.potentiometer_2;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="450" y="590" width="60" height="20" as="geometry"/>
+          <mxGeometry x="480" y="590" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-156" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SLRoOILE3uPo_ePLO9oY-153" target="SLRoOILE3uPo_ePLO9oY-148">
           <mxGeometry relative="1" as="geometry">
@@ -297,7 +297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-160" value="set V step" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="610" width="70" height="20" as="geometry"/>
+          <mxGeometry x="476" y="610" width="70" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
