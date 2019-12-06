@@ -1,12 +1,6 @@
 # MFC control
 
-- AC light dimming controlled by rotary encoder
-- 3d printed lamp design in the shape of a mushroom
-
-## Arduino code adapted from
-
-- AC light dimmer: https://www.instructables.com/id/Arduino-controlled-light-dimmer-The-circuit/
-- Rotary encoder: https://www.mathertel.de/Arduino/RotaryEncoderLibrary.aspx
+A device to remotely change the setpoint of Omega's Mass Flow Controllers. The flow value is set using +/- buttons. A potentiometer can be used to set the amplitude of the buttons steps.
 
 ## Circuit
 
