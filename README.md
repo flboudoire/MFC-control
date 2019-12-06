@@ -8,6 +8,6 @@ A device to remotely change the setpoint of Omega's Mass Flow Controllers. The f
     <img src="circuit.png" width="700px">
 </p>
 
-## 3d prints
+## CAD (3d printed case)
 
 [Onshape file](https://cad.onshape.com/documents/18eb6e605793d25ea773f81d/w/6521c0d1b9b9e777c69c406c/e/59e82885677739ed15fef912)
