@@ -1,6 +1,6 @@
-<mxfile modified="2019-12-07T06:52:27.796Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="ZjZc9WgAWnAzVq3s4z0_" version="12.3.8" type="github" pages="1">
+<mxfile modified="2019-12-07T06:55:04.096Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="mdLQJHGRQZsD-2kPftrg" version="12.3.8" type="github" pages="1">
   <diagram id="BqVT6hTkGivtoPgYdE61" name="Page-1">
-    <mxGraphModel dx="868" dy="501" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="589" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -66,7 +66,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="gJxspR0wx9kIDRPY5j0o-9" value="&lt;div&gt;ON / OFF&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;shape=mxgraph.electrical.electro-mechanical.simple_switch;rotation=-90;labelPosition=center;" parent="1" vertex="1">
-          <mxGeometry x="60" y="466.5" width="75" height="19" as="geometry"/>
+          <mxGeometry x="60" y="478.5" width="75" height="19" as="geometry"/>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-116" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="gJxspR0wx9kIDRPY5j0o-11" target="SLRoOILE3uPo_ePLO9oY-146" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -81,7 +81,7 @@
             <mxPoint x="163" y="360" as="sourcePoint"/>
             <Array as="points">
               <mxPoint x="260" y="577"/>
-              <mxPoint x="260" y="400"/>
+              <mxPoint x="260" y="425"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="380" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="104" y="400"/>
+              <mxPoint x="104" y="425"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,8 +100,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJxspR0wx9kIDRPY5j0o-19" value="&lt;div&gt;15 VDC&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=bottom;shape=mxgraph.electrical.signal_sources.dc_source_3;rotation=90;labelPosition=left;horizontal=0;textDirection=ltr;" parent="1" vertex="1">
-          <mxGeometry x="150" y="370" width="60" height="60" as="geometry"/>
+        <mxCell id="gJxspR0wx9kIDRPY5j0o-19" value="" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=bottom;shape=mxgraph.electrical.signal_sources.dc_source_3;rotation=90;labelPosition=left;horizontal=0;textDirection=ltr;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="165" y="410" width="30" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="SLRoOILE3uPo_ePLO9oY-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.shopify.com/s/files/1/1042/6130/products/57_50727626-d12a-45bc-b952-8a560fb25162_1024x1024@2x.jpg?v=1524782134;" parent="1" vertex="1">
           <mxGeometry x="135" y="446" width="90" height="60" as="geometry"/>
@@ -392,6 +392,9 @@
         </mxCell>
         <mxCell id="fawrpUjnj7-Lio-ScgCo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fawrpUjnj7-Lio-ScgCo-8" target="fawrpUjnj7-Lio-ScgCo-17">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="fawrpUjnj7-Lio-ScgCo-53" value="15 VDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="400" width="60" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
