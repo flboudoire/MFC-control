@@ -34,12 +34,10 @@ void setup() {
     pinMode(led3_pin, OUTPUT);
     hello();
     digitalWrite(led0_pin, HIGH);
-    Serial.begin(9600);
 }
 
 void loop() {
   pot_val = analogRead(pot_pin); // read the value from the potentiometer
-  update_leds();
   step = map(pot_val, 0, 1023, min_step, max_step); // set step value according to potentiometer value
   if ( pressed(plus_pin, plus_state) ) {
     setpoint += step;
@@ -53,15 +51,16 @@ void loop() {
   if (setpoint < min_setpoint) {
     setpoint = min_setpoint;
   }
+  update_leds();
   analogWrite(setpoint_pin, setpoint);
-  Serial.println(setpoint);
 }
 
 void update_leds() {
     int range = int(max_setpoint/4);
-    digitalWrite(led1_pin, light(range));
-    digitalWrite(led2_pin, light(range*2));
-    digitalWrite(led3_pin, light(range*3));
+    digitalWrite(led0_pin, light(range,0));
+    digitalWrite(led1_pin, light(range,1));
+    digitalWrite(led2_pin, light(range,2));
+    digitalWrite(led3_pin, light(range,3));
 }
 
 void hello() {
@@ -76,8 +75,8 @@ void hello() {
   }
 }
 
-bool light(int threshold) {
-    if (setpoint > threshold){
+bool light(int threshold, int n) {
+    if (setpoint > n*threshold){
         return true;
     } else {
         return false;
@@ -87,11 +86,12 @@ bool light(int threshold) {
 bool pressed(const int button_pin, bool &button_last_state) {
   // read the state of the pushbutton value:
   int button_state = digitalRead(button_pin);
-  button_last_state = button_state;
   // check if the pushbutton is pressed and released. If it is, the button_state is HIGH:
   if (button_state && !button_last_state)
   {
+    button_last_state = button_state;
     return true;
   }
+  button_last_state = button_state;
   return false;
 }
