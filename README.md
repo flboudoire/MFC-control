@@ -1,7 +1,10 @@
 # Mass flow controller controller
 
-<img src="pic.png" alt="MFC controller" width="300">
 A device to remotely change the setpoint of Omega's Mass Flow Controllers. The flow value is set using +/- buttons. A potentiometer is used to set the amplitude of the buttons steps.
+
+<p align="center">
+    <img src="pic.png" width="700px">
+</p>
 
 ## Circuit
 
