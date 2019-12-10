@@ -1,6 +1,6 @@
 # Mass flow controller controller
 
-A device to remotely change the setpoint of Omega's Mass Flow Controllers. The flow value is set using +/- buttons. A potentiometer is used to set the buttons increment.
+A device to remotely change the setpoint of Omega's Mass Flow Controllers. The flow value is set using +/- buttons. A potentiometer is used to set the buttons increment. LEDs give feedback on the setpoint value. The input voltage is 12 VDC.
 
 <p align="center">
     <img src="pic.png" width="300px">
