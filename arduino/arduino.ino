@@ -19,7 +19,8 @@ bool minus_state = false; // minus button state used in pressed()
 bool is_pressed(const int button_pin, bool &button_state) {
 
   /* check if button goes from LOW to HIGH and update current button state */
-  int button_last_state = button_state;
+
+  int button_last_state = button_state; // store last state
 
   // read the state of the pushbutton value:
   button_state = digitalRead(button_pin);
