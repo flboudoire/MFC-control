@@ -10,10 +10,10 @@
 /* buttons, + and -, used to change setpoint values
  setpoint increment defined by a potentiometer*/
 
-const int plus_pin = 12; // plus button pin
+const int plus_pin = 7; // plus button pin
 bool plus_state = false; // plus button state used in pressed()
 
-const int minus_pin = 11; // minus button pin
+const int minus_pin = 12; // minus button pin
 bool minus_state = false; // minus button state used in pressed()
 
 bool is_pressed(const int button_pin, bool &button_state) {
@@ -32,7 +32,7 @@ bool is_pressed(const int button_pin, bool &button_state) {
 
 /* potentiometer used to set the buttons increment */
 
-const int pot_pin = A7; // potentiometer pin
+const int pot_pin = A1; // potentiometer pin
 int pot_val = 0; // value read from potentiometer
 int increment = 5; // setpoint increment, controlled by potentiometer
 const int max_increment = 20; // maximum increment size
@@ -51,7 +51,7 @@ const int min_setpoint = 0; // minimum setpoint = 0V
  used to make sure the device functions properly at a glance */
 
 const int n_leds = 4; // number of leds
-const int led_pins[n_leds] = {7, 8, 9, 10}; // led pins
+const int led_pins[n_leds] = {11, 10, 9, 8}; // led pins
 
 void hello_leds() {
 
@@ -61,14 +61,14 @@ void hello_leds() {
   int t_delay = 300; // time between leds lighting
 
   // light up leds one after the other
-  for (int pin = led_pins[0]; pin <= led_pins[n_leds - 1]; pin++) {
-    digitalWrite(pin, HIGH);
+  for (int i = 0; i <= n_leds - 1; i++) {
+    digitalWrite(led_pins[i], HIGH);
     delay(t_delay);
   }
 
   // shut down leds one after the other
-  for (int pin = led_pins[n_leds - 1]; pin >= led_pins[0]; pin--) {
-    digitalWrite(pin, LOW);
+  for (int i = n_leds - 1; i >= 0; i--) {
+    digitalWrite(led_pins[i], LOW);
     delay(t_delay);
   }
 
